@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.jar",
+    "file": "guava-33.5.0-jre.jar",
+    "sha256": "1e301f0c52ac248b0b14fdc3d12283c77252d4d6f48521d572e7d8c4c2cc4ac7"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.51.0.0/sqlite-jdbc-3.51.0.0.jar",
+    "file": "sqlite-jdbc-3.51.0.0.jar",
+    "sha256": "b0ca8cf80d6eff80ee18aa6e8a6aa72f697af0bf9c822c4b2ad9e35c7a3146e1"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.10.0/commons-cli-1.10.0.jar",
+    "file": "commons-cli-1.10.0.jar",
+    "sha256": "1b273d92160b9fa69c3e65389a5c4decd2f38a697e458e6f75080ae09e886404"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/org/json/json/20250517/json-20250517.jar",
+    "file": "json-20250517.jar",
+    "sha256": "3ea61b2a06e31edf1c91134fe9106b0ebb16628be169f3db75bc7a2b06b45796"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar",
+    "file": "slf4j-api-2.0.17.jar",
+    "sha256": "7b751d952061954d5abfed7181c1f645d336091b679891591d63329c622eb832"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/2.0.17/slf4j-simple-2.0.17.jar",
+    "file": "slf4j-simple-2.0.17.jar",
+    "sha256": "ddfea59ac074c6d3e24ac2c38622d2d963895e17f70b38ed4bdae4d780be6964"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.5/postgresql-42.7.5.jar",
+    "file": "postgresql-42.7.5.jar",
+    "sha256": "69020b3bd20984543e817393f2e6c01a890ef2e37a77dd11d6d8508181d079ab"
+  }
+]

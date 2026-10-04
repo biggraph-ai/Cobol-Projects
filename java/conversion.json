@@ -1,0 +1,2003 @@
+[
+  {
+    "source": "Extra-Stuff/Blue/test.cbl",
+    "sha256": "64fa69a7eb03bf3d6e4780b07301a2393a8597791b670f5316f616e3e596d81a",
+    "package": "org.biggraph.generated.p_extra_stuff.p_blue.p_test",
+    "classes": [
+      "org.biggraph.generated.p_extra_stuff.p_blue.p_test.smallestprogram"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Extra-Stuff/MVT-Convert/test.cbl",
+    "sha256": "448947fb5c191a746f9374f3322a8812bd3f28e47923da7e795aeecd130632a6",
+    "package": "org.biggraph.generated.p_extra_stuff.p_mvt_convert.p_test",
+    "classes": [
+      "org.biggraph.generated.p_extra_stuff.p_mvt_convert.p_test.BDS0801"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Extra-Stuff/UnNumRight/test.cbl",
+    "sha256": "7b3d1284b62ad6e777b8489f0f04692dc4f682bc8f204c530842cdda7c4b7dee",
+    "package": "org.biggraph.generated.p_extra_stuff.p_unnumright.p_test",
+    "classes": [
+      "org.biggraph.generated.p_extra_stuff.p_unnumright.p_test.BDS0702"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0702.cbl",
+    "sha256": "7b3d1284b62ad6e777b8489f0f04692dc4f682bc8f204c530842cdda7c4b7dee",
+    "package": "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0702",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0702.BDS0702"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0704.cbl",
+    "sha256": "08adb3d578fc3f02b7724d1cf3735fe7420b622936cc893abb1a09f009c2faf0",
+    "package": "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0704",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0704.BDS0704"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0801.cbl",
+    "sha256": "7487917197d7776760ff6fc1415fdc05c22e78dec3fc096de7f487054cf9d42e",
+    "package": "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0801",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0801.BDS0801"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0802.cbl",
+    "sha256": "bff991eecf830a99f6d7a00e0d1a9fd40f39e6e348bb5adb22ddc7ec66000bb0",
+    "package": "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0802",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_bds0802.BDS0802"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Repair invalid fixed-format level-number indicator"
+    ]
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/cbl0001.cbl",
+    "sha256": "10536f4f51f3533c69f61f0cfbaf09ee732e1b8873fc84ff685a26acdbe9136b",
+    "package": "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_cbl0001",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_cbl0001.CBL0001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/hello.cbl",
+    "sha256": "eb2539c84b668ac1b2fd8e89760393c9be4ee66008ff79bd3782429e2f46497f",
+    "package": "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_hello",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_mvs.p_herc03.p_cbl.p_hello.HELLO"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/MAINPGM.cbl",
+    "sha256": "4bac11e7386c302bc77d32655062a9dd35203ba729b869bc2c20d90887c16d59",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_mainpgm",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_mainpgm.MAINPGM"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Rename MAIN to MAINPGM: MAIN is reserved by the Java generator"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB01.cbl",
+    "sha256": "a5920a7e355ec3778d5d0bb34c2532c6b90d3345d1c292f1ba1fd571af0227e2",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub01",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub01.SUB01"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB02.cbl",
+    "sha256": "bb9a0b8bb0c715effeec2e615ec54ab1f1b92c5b2a1ec6a2d04f7ca521636b7a",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub02",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub02.SUB02"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB03.cbl",
+    "sha256": "b26c7f2f165912b242f6b313d3ac9526cf8e398cfd155f328562af0210a12d3b",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub03",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub03.SUB03"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB04.cbl",
+    "sha256": "a9d1ef35b9aaa15092d87ab3cc8f9263dfa080ed1adc2bad86172d226479e16a",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub04",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub04.SUB04"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB05.cbl",
+    "sha256": "d2f914811e793ac56fc3185899f134cdb5be5f03dd24fe6351e60bcfa3998311",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub05",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_sub05.SUB05"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE1.cbl",
+    "sha256": "7f534ee6b17d16727ba914b18c3b095a1167913636753ee9da7e8bb8a3ada8e2",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table1",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table1.TABLE1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Expand WS-STN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-DTN-L2-B ALL subscripts to explicit occurrence arguments",
+      "Expand WS-DTHN-L2-B ALL subscripts to explicit occurrence arguments"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE2.cbl",
+    "sha256": "3db3200c820073c19e931724ce85058a899719c2ae122cac5cc68024895641ab",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table2",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table2.TABLE2"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Expand WS-STN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-DTN-L2-B ALL subscripts to explicit occurrence arguments",
+      "Expand WS-DTHN-L2-B ALL subscripts to explicit occurrence arguments",
+      "Expand WS-3D-L3-C ALL subscripts to explicit occurrence arguments"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE2A.cbl",
+    "sha256": "636c78cf2330e6aff9b348605bfaf0246128fbcf3ea822c829145b3413da81db",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table2a",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table2a.TABLE2A"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Expand WS-3D-L3-C ALL subscripts to explicit occurrence arguments"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE3.cbl",
+    "sha256": "6be357de3ebdaa0b34af23e08cccfd4fd3f5658eb53758a401a4673d4dc48c14",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table3",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_table3.TABLE3"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLENA.cbl",
+    "sha256": "6ec6d044030a2b1eff2087e9dea645bd6edf0b6a470bdf6da8db3421265c79a8",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_tablena",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_tablena.TABLENA"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLEWA.cbl",
+    "sha256": "cb1e3429a4469a9936db95a0176ee126fc5c4fdbeb73203ab4b9a64513c41eeb",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_tablewa",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_tablewa.TABLEWA"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Expand WS-1DN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-3DI-L3-C ALL subscripts to explicit occurrence arguments"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS120.cbl",
+    "sha256": "21b2c84777a762755cc1475e2715db194a277e5887680404c5cf8a82100cd2b4",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws120",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws120.CLMRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS162E.cbl",
+    "sha256": "dd1a2f741c0ea441b347afe278b8192542c95f7fca49db145eb8bc4ab5ea68b3",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws162e",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws162e.HOSPEDIT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS172A.cbl",
+    "sha256": "0cf2a2c61dc0720a44410ad5d5f144d7764e67ca4c985e465378a61c5343cca9",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws172a",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws172a.WS172A"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS182.cbl",
+    "sha256": "ff018afd99fefc5e6e413acb4a3fca88307ddc59376f2d9e2c0f6078b92aed66",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws182",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws182.WS182"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS193.cbl",
+    "sha256": "21b2c84777a762755cc1475e2715db194a277e5887680404c5cf8a82100cd2b4",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws193",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws193.CLMRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS532.cbl",
+    "sha256": "8939f0ba82ba98792c7642b800bdfdfc1936eaa11ab26ad2fb306a7c6c54cf87",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws532",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws532.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS63.cbl",
+    "sha256": "b4f0b9388981a92211e5e511d0b70ef8b9a1b4810c44b9973d6fbc986d2d6fec",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws63",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws63.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS63A.cbl",
+    "sha256": "b2b1dc97b7cb09dbaa39493cda0f24c61fb4dc220839ed3a7c0d9d07a5083843",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws63a",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws63a.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS64.cbl",
+    "sha256": "c5bbd4954c16bd48e3beebd39fe3ac63fc5a1c563e337c723b1fd6578d173480",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws64",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws64.FILECALC"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS72O.cbl",
+    "sha256": "346a385e5e26355c39dd1854ae13a52d030b2c9deaae7ed0645c6a384b9eabe3",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws72o",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws72o.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS81C.cbl",
+    "sha256": "3bc15957480ca273749815564f54f4c02c7ee334c039fd870c04bb93880738ce",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws81c",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws81c.FAVRFP"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS81D.cbl",
+    "sha256": "0a17949984d09383ff0a9d6ba4a5a3c1a556581548d6478e269ef5978c7217c9",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws81d",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws81d.FAVRFP"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS81E.cbl",
+    "sha256": "8c1aa2b9dab91c9a94da89c2718e21e55c956ed901f40054fc041cb4cf7a2ddd",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws81e",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_ecbap.p_cbl.p_ws81e.FAVRFP"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort1f.cbl",
+    "sha256": "48a6795a5b3caa295d2cc58403551816ef3c867cc3b3b8fca4e4b7766312f364",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort1f",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort1f.SORT1F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort1t.cbl",
+    "sha256": "8c13222380661cafe606d942f7e3c7ca761290ff887cc3d7f04a0929e7a5049b",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort1t",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort1t.SORT1T"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort2f.cbl",
+    "sha256": "08aabd5e46afcacf1975ce876124e69af7bb0e3ecd5b45a52113d1982014e80a",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort2f",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort2f.SORT2F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort3f.cbl",
+    "sha256": "6d76cf24c48d5545b87e064cb443cf0a616481d704037ff773daef6af550e3bb",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort3f",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort3f.SORT3F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort4f.cbl",
+    "sha256": "078c89804a094cb6054852ee4da3c586ace64daa1cf554b09d06676dc751a0a7",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort4f",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_internal_sort.p_cbl.p_sort4f.SORT4F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0702.cbl",
+    "sha256": "7b3d1284b62ad6e777b8489f0f04692dc4f682bc8f204c530842cdda7c4b7dee",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0702",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0702.BDS0702"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0704.cbl",
+    "sha256": "860313ca6d85641d40f651396162ca80bcee10ae24c169b11bfe430a2e1818be",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0704",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0704.BDS0704"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0801.cbl",
+    "sha256": "1815786d35f5d9c2ab57d39a6e796843633f95edb1de7d4134404468521dad98",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0801",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0801.BDS0801"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0802.cbl",
+    "sha256": "e43a1cfb469cc884bcd0221cdc01409c554992c161c8e9a4326b046226544936",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0802",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0802.BDS0802"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0803.cbl",
+    "sha256": "897df7db9e84a1a900a715431e864fdebd1495ffd141f82df39aa99320b6d55f",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0803",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0803.BDS0803"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0804.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds0804",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1001.cbl",
+    "sha256": "9deecef3dbe5fb676d2ed30ea730e536b3e0c6a70870b766f6d3a4aa594470f0",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1001",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1001.BDS1001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1002.cbl",
+    "sha256": "3fd1108f85f7bb0f6cd6e1a60d1d4e4ab19ff4fbc5d313d3e7bc2360c32680bb",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1002",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1002.BDS1002"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1003.cbl",
+    "sha256": "752a93ed3556c44c2936330b692bc8e8571d448d1d3cdd6ed1812feff928ea0b",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1003",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1003.BDS1003"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1004.cbl",
+    "sha256": "75be340d77ef88fc6c82f92232f2ebfcd4701e93c53c807f41619c1ee266c6bd",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1004",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_bds1004.BDS1004"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/CBL0106.cbl",
+    "sha256": "35816e19dcb31b0aa7e77cc797ec00c6dc927eb926d4b2a9ae812bf0d9647add",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_cbl0106",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_cbl0106.CBL0106"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/EXE4.cbl",
+    "sha256": "191723e2422ced0b88beb64db4810c1c3a7d905a37450b5652a97d8be19a0a0a",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_exe4",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_exe4.EXE4"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/FAVRPT.cbl",
+    "sha256": "fdb7f9f856dead2b019f9ebead6464c563244b8785fbf6f88870c94e0605ab68",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_favrpt",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_favrpt.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Repair undefined FAVOUT-REC, missing sentence period and inconsistent output record length"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/ODS0001.cbl",
+    "sha256": "d9f94469319b2b02945ac3325b94322e0024079fc435f7ecfd65106802ad458a",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_ods0001",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_ods0001.ODS0001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/ODS000C.cbl",
+    "sha256": "61af5db4f90c3017a02045ffe348433ab214026a716375e14eebc044ddbba356",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_ods000c",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_ods000c.ODS000C"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/ODS0106.cbl",
+    "sha256": "1a694e3320dd30466866259d8c050622801ac2408df2a36f4c819c1234097abc",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_ods0106",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_normal.p_cbl.p_ods0106.ODS0106"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "Mainframe/ZOS/Zowe/Simple_Report/COBOL/prtrpt1.cbl",
+    "sha256": "ad3aad656bef9d39cf89a094b7fd0ad69235af847e5b0860442107b20f04e49a",
+    "package": "org.biggraph.generated.p_mainframe.p_zos.p_zowe.p_simple_report.p_cobol.p_prtrpt1",
+    "classes": [
+      "org.biggraph.generated.p_mainframe.p_zos.p_zowe.p_simple_report.p_cobol.p_prtrpt1.PRTRPT1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/CHARFUNC.cbl",
+    "sha256": "35b69df186b0c2df4148dd48476b77d606f29aa270dd0486ecaf1a33d214cd4e",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_charfunc",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_charfunc.CHARFUNC"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FAHR2CEL.cbl",
+    "sha256": "cd5d09ef6bdc812b410644014232388ab051b72abf133aee5c1dcc1e49aaefa3",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_fahr2cel",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_fahr2cel.FAHR2CEL"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FAVRPT.cbl",
+    "sha256": "f85c5a59c9775452a238b0364ffa09254f235c8b00351bb603a2dd275c1d85be",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_favrpt",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_favrpt.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FAVRPT2.cbl",
+    "sha256": "10bf6a517507bce4347e337748d767a0e69e9c1855d5a7d48caac7111e298f06",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_favrpt2",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_favrpt2.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FILECALC.cbl",
+    "sha256": "62a21cd8ce1867508c9afc744094dc78155825ef285bcf0a3e431903df691a68",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_filecalc",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_filecalc.FILECALC"
+    ],
+    "status": "generated",
+    "diagnostics": "OpenCobol/ECBAP/cbl/FILECALC.cbl:16: Warning: RECORD clause ignored for LINE SEQUENTIAL",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/HOSPEDIT.cbl",
+    "sha256": "a0112e8f3ba5a951ed6c1a929c9984b7f7cb03c4f02fd7b69a9f3d027302b318",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_hospedit",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_hospedit.HOSPEDIT"
+    ],
+    "status": "generated",
+    "diagnostics": "OpenCobol/ECBAP/cbl/HOSPEDIT.cbl:48: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/HOSPEDIT.cbl:53: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/HOSPEDIT.cbl:58: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/HOSPEDIT.cbl:63: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/HOSPEDIT.cbl:68: Warning: RECORD clause ignored for LINE SEQUENTIAL",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INSPECT1.cbl",
+    "sha256": "d554c2f67c9d86d6d1eeaf04c57d8cf01c6bda908112fbd5f72b988b8c0f0342",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_inspect1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_inspect1.INSPECT1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTEG1.cbl",
+    "sha256": "6be6f14328f0d3330b22cf90803d43268c86a016fd3be54e7ee5a19ef13f9af5",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_integ1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_integ1.INTEG1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRDATE.cbl",
+    "sha256": "de89a3361b29a9294f5c8f0e035955f8744cfa6795722d374e7233021b225303",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrdate",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrdate.INTRDATE"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRFINA.cbl",
+    "sha256": "299652ae6d042845b2a563aa807eeb8a71b3933eec71b7e2e7787d8dca5b8780",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrfina",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrfina.INTRFINA"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRNUM.cbl",
+    "sha256": "3f4447bcea7d468df6ee166674595a9bb6c71b9d8e9980560ae153c1e6968b55",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrnum",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrnum.INTRNUM"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRSTAT.cbl",
+    "sha256": "34b0615a88912edd1f64e726abe279cbd2dcda3680ca31fa6f4542f6ca29e601",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrstat",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_intrstat.INTRSTAT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/MAINPGM.cbl",
+    "sha256": "4bac11e7386c302bc77d32655062a9dd35203ba729b869bc2c20d90887c16d59",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_mainpgm",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_mainpgm.MAINPGM"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Rename MAIN to MAINPGM: MAIN is reserved by the Java generator"
+    ]
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/PAYROL01.cbl",
+    "sha256": "6fcb8f28086c29cf487c1ac4f0efc629a9482ffd8c23e9dc3138ca7129c28edf",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_payrol01",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_payrol01.PAYROL01"
+    ],
+    "status": "generated",
+    "diagnostics": "OpenCobol/ECBAP/cbl/PAYROL01.cbl:16: Warning: RECORD clause ignored for LINE SEQUENTIAL",
+    "program_type": "program",
+    "adaptations": [
+      "Implement ASSIGN TO DISPLAY with standard output record writes"
+    ]
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/PAYROL0B.cbl",
+    "sha256": "8eeea7865ebebe37bc745512cc891fc3dbc447664f9fb89b21ae18aa7756b048",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_payrol0b",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_payrol0b.PAYROL0B"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/STRING1.cbl",
+    "sha256": "5c89166f140efe0ad873ab2a90180e769b78e1f40e689cfa0dc5e0924f9a5fa6",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_string1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_string1.STRING1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/STRING2.cbl",
+    "sha256": "6a4c658ffe1035b5387dc75e8165ad238579a976dd427c12a6b17280ee3a85f0",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_string2",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_string2.STRING2"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB01.cbl",
+    "sha256": "a5920a7e355ec3778d5d0bb34c2532c6b90d3345d1c292f1ba1fd571af0227e2",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub01",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub01.SUB01"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB02.cbl",
+    "sha256": "bb9a0b8bb0c715effeec2e615ec54ab1f1b92c5b2a1ec6a2d04f7ca521636b7a",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub02",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub02.SUB02"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB03.cbl",
+    "sha256": "b26c7f2f165912b242f6b313d3ac9526cf8e398cfd155f328562af0210a12d3b",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub03",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub03.SUB03"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB04.cbl",
+    "sha256": "a9d1ef35b9aaa15092d87ab3cc8f9263dfa080ed1adc2bad86172d226479e16a",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub04",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub04.SUB04"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB05.cbl",
+    "sha256": "d2f914811e793ac56fc3185899f134cdb5be5f03dd24fe6351e60bcfa3998311",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub05",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_sub05.SUB05"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLE1.cbl",
+    "sha256": "81a4eacc077d92f0af8eb1ccbe2b7936d3a85ff919305fe88f92343e6402f95d",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_table1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_table1.TABLE1"
+    ],
+    "status": "generated",
+    "diagnostics": "OpenCobol/ECBAP/cbl/TABLE1.cbl:59: Warning: Numeric value is expected",
+    "program_type": "program",
+    "adaptations": [
+      "Use singular VALUE for elementary initial values",
+      "Expand WS-STN-A ALL subscripts to explicit occurrence arguments",
+      "Match direct integral array-function DISPLAY presentation to GnuCOBOL"
+    ]
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLES00.cbl",
+    "sha256": "ac577e005dd63c5a6d7493d0be5c91366f857c7c2b0349b548f850af1e7ba0db",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tables00",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tables00.TABLES00"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLES01.cbl",
+    "sha256": "9e6e56ffee5f5037c88ea9955f7c4a61e63cda2acd733f6080e1deb07ecc6904",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tables01",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tables01.TABLES01"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLES02.cbl",
+    "sha256": "db16c60e234588af503b7d8ad9b5e990a136e3bd3ef937245805704fb04e94f6",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tables02",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tables02.STDNTCRS"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLESA1.cbl",
+    "sha256": "8574339059d95302d981546641debe3816529ad3efcf28a7cdee7645395211fc",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tablesa1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tablesa1.TABLES01"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLOAD1.cbl",
+    "sha256": "d8f9603de95cd8127bf47fd7b7baa596eeb752711f186c5374c0017e2cfc05c8",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tabload1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tabload1.TABLOAD1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLOAD2.cbl",
+    "sha256": "d34d1897238d496292f9dfdb42e6f131d082263afd1aa40356e32a473559f331",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tabload2",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tabload2.TABLOAD2"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TRIM1.cbl",
+    "sha256": "c9dd23ce5412fdac3f9016401b6c121dfe51d56e19d2c5805ca4d85f1c153bdf",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_trim1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_trim1.TRIM1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/UNSTRNG.cbl",
+    "sha256": "4e7b5e85ec5e8c9edb4645f4296a1eb36dae1c0701fb002a6bf1460a565b5121",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_unstrng",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_unstrng.UNSTRNG"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Give duplicate unreferenced MISC-FIELDS group a unique Java storage name"
+    ]
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/tabldna.cbl",
+    "sha256": "0ad40ef3501d75bd13c3c40dcce41377713b5ecf33c37eb52210aa02ab0ce674",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tabldna",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tabldna.TABLDNA"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/tablena.cbl",
+    "sha256": "d611a9e441ad372cbd4485c054a2f7c4bad7e12db29b7bf8506d1fde1689b571",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tablena",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tablena.TABLENA"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/tablewa.cbl",
+    "sha256": "18dc8383a8f32544f89a7babc01e8e3a3c64a2c6d5fe580bdc98c02591a475a2",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tablewa",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_tablewa.TABLEWA"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Expand WS-1DN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-3DI-L3-C ALL subscripts to explicit occurrence arguments"
+    ]
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws120.cbl",
+    "sha256": "4041661c03848122d1628ab2bf82af64e10db0ec1f6a7aef14f4b3ffa54275e7",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws120",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws120.CLMRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws162e.cbl",
+    "sha256": "7af807d827e94c329454c6484d01cb09883924b1ce096969df00823a9c6967e7",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws162e",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws162e.HOSPEDIT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws162o.cbl",
+    "sha256": "d5bf659adea645e777fadba231ba91a2414512e6d35befc70a38095941ca3478",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws162o",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws162o.HOSPEDIT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws172a.cbl",
+    "sha256": "61f4fef9b507d8537950ce49115f8f60b7c1bed6fbce35db842addc7f8405aa9",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws172a",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws172a.WS172A"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws182.cbl",
+    "sha256": "d2953f83ebc6e4a5bfea552226adcaf75a7158e1045946b9834498a63f3c1681",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws182",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws182.WS182"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws532.cbl",
+    "sha256": "5f6ca886b594c84d50b179ba7fb3dc1d55dfd4ef08623f591d6f80ed7ad23f14",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws532",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws532.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws63.cbl",
+    "sha256": "1a1180ea86cec016d37a5b2a143070b335fcc09d95b0c9b62805d6638b706b11",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws63",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws63.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws63a.cbl",
+    "sha256": "e2dffbc5ed924c0c898ab3417c16581863c22d68465049db0e2ccc621c79c173",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws63a",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws63a.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws63o.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws63o",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws64.cbl",
+    "sha256": "eb65125a1d349919eba9ca8b7145fee4dae5b354f2a5b21dc104337c086861f9",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws64",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws64.FILECALC"
+    ],
+    "status": "generated",
+    "diagnostics": "OpenCobol/ECBAP/cbl/ws64.cbl:16: Warning: RECORD clause ignored for LINE SEQUENTIAL",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws70.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws70",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws71.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws71",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws72o.cbl",
+    "sha256": "9416694dfd0cdc966c153105af594155c643e94e851c2f0a2b314957d8256e5a",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws72o",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws72o.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws73.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws73",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws75.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws75",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws76.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws76",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws77.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws77",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws78.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws78",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws79.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws79",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws80a.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws80a",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws80b.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws80b",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws81c.cbl",
+    "sha256": "09c68385637de9e80d8f0ab81d6eedc1125f554f604c9c9353bf152e678a83cf",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws81c",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws81c.FAVRFP"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws81d.cbl",
+    "sha256": "0c6163badd3e2edbdb59326ffad2717525b28f357b68de0614b0f77b607ddbcc",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws81d",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws81d.FAVRFP"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws81e.cbl",
+    "sha256": "3abaea6c4f07431a0197f7bf5bb435753f7ec6a92733b8ca41628b49d1f149c1",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws81e",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws81e.FAVRFP"
+    ],
+    "status": "generated",
+    "diagnostics": "OpenCobol/ECBAP/cbl/ws81e.cbl:56: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/ws81e.cbl:81: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/ws81e.cbl:110: Warning: RECORD clause ignored for LINE SEQUENTIAL\nOpenCobol/ECBAP/cbl/ws81e.cbl:135: Warning: RECORD clause ignored for LINE SEQUENTIAL",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws82.cbl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "package": "org.biggraph.generated.p_opencobol.p_ecbap.p_cbl.p_ws82",
+    "classes": [],
+    "status": "empty_source",
+    "diagnostics": "",
+    "program_type": "program"
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort1f.cbl",
+    "sha256": "45e67eae12c9aa77712dd294ae8239853a53720ec6b811357ebad9ac1d2a0284",
+    "package": "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort1f",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort1f.SORT1F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort1t.cbl",
+    "sha256": "8c13222380661cafe606d942f7e3c7ca761290ff887cc3d7f04a0929e7a5049b",
+    "package": "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort1t",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort1t.SORT1T"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort2f.cbl",
+    "sha256": "5b29afa7f8cff4d4b20bcb8e2700e8b37c7a418a432ee842181f8a06ae57f1b9",
+    "package": "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort2f",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort2f.SORT2F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort3f.cbl",
+    "sha256": "2e8acbc8ccfdfd44c4f5705c0b8a3051cde2ad3d76d09d10f600a7cd6b9f1475",
+    "package": "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort3f",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort3f.SORT3F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort4f.cbl",
+    "sha256": "663c1b0b1df4c162dd5ea8f707126a8e6c3657d24d23fc2c88e3d3f354b3902b",
+    "package": "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort4f",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_internal_sort.p_cbl.p_sort4f.SORT4F"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ADDAMT.cbl",
+    "sha256": "787b8421448429bd02d619f4759ad5ed5d9797a2bf645d2fa18b303393236913",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_addamt",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_addamt.ADDAMT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1001.cbl",
+    "sha256": "985f2aa1b7b72df06cdf2144488da8575fcd31f730fb12be5f57a62cc8c0b040",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1001",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1001.BDS1001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1002.cbl",
+    "sha256": "e5f21de16edee32364908bdc11b29936fb8c7904f53c337795ee24b921905feb",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1002",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1002.BDS1002"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1003.cbl",
+    "sha256": "73da431b6f228afd8ca8e72d834b60b788837082bc6ad68392491bf8b96023b3",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1003",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1003.BDS1003"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1004.cbl",
+    "sha256": "8230a6c8bb03a28c56ae04403cb7bfb8c3e6e614ef3e730d6245b5dcad005c5a",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1004",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1004.BDS1004"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1005.cbl",
+    "sha256": "93e8a0d9baded528f56cbd9f661881e55f3bd5401de926d647ee009801f7cf02",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1005",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_bds1005.BDS1005"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0001.cbl",
+    "sha256": "5f1f7c7c4e72171ac22cd08fb98e0c2810d652e037b41c25849445300857a5f2",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0001",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0001.CBL0001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0002.cbl",
+    "sha256": "5f1f7c7c4e72171ac22cd08fb98e0c2810d652e037b41c25849445300857a5f2",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0002",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0002.CBL0001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0004.cbl",
+    "sha256": "1c202a54c5ea74aef118f3350870155487158dd1859dd14c0f9c5c9496ab15f6",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0004",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0004.CBL0004"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0005.cbl",
+    "sha256": "865ccc6ffcd398d5f93d11cf279b04abfb24a9704e6ab39a4555d6cd840056d4",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0005",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0005.CBL0004"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0006.cbl",
+    "sha256": "ffe7222a250f730954db993b036b2a0ba8d191036bea3eb0e449bf6ac9f57713",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0006",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0006.CBL0006"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0007.cbl",
+    "sha256": "0bc7bc5964dbd3ab012c9934cf3eacd07d4bbd7ca1a1ca9238bf73ef0e599b13",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0007",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0007.CBL0007"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0008.cbl",
+    "sha256": "b24119597140efbe266eeca598c4635af4f6fbc8ad8c086ba4075113d3398b23",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0008",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0008.CBL0008"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0009.cbl",
+    "sha256": "f5725448949d0544cde143c6079f4e2ee55c2947d3580c3d8a5d396f177ffe6d",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0009",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0009.CBL0009"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0010.cbl",
+    "sha256": "5b1c7dad541ca1601ee40aafd57cb1b7aae27cedc5f730f6ca743496ed0540fd",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0010",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0010.CBL0010"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0011.cbl",
+    "sha256": "62e223466b7016c73d2f91bcd1a13f3247235dc471563bc416bbeef54f14b34a",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0011",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0011.CBL0010"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0012.cbl",
+    "sha256": "ccc07e1f6e6e2caed14050d3f264128c2070f562ee3ed0f9c1e38b881d15e86d",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0012",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_cbl0012.CBL0011"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/HOSPEDIT.cbl",
+    "sha256": "184f600ece0342e0a944a658a57821d0eb7761823fb6488b2a278902f6c4c0c2",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_hospedit",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_hospedit.HOSPEDIT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0001.cbl",
+    "sha256": "86ada07f087ac4fa3992df491a20bbefdd18ab5fde20396c78b4185b999c7bff",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0001",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0001.ODS0001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0002.cbl",
+    "sha256": "5f1f7c7c4e72171ac22cd08fb98e0c2810d652e037b41c25849445300857a5f2",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0002",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0002.CBL0001"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0004.cbl",
+    "sha256": "1c202a54c5ea74aef118f3350870155487158dd1859dd14c0f9c5c9496ab15f6",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0004",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0004.CBL0004"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0005.cbl",
+    "sha256": "865ccc6ffcd398d5f93d11cf279b04abfb24a9704e6ab39a4555d6cd840056d4",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0005",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_ods0005.CBL0004"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ]
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/PAYROL00.cbl",
+    "sha256": "75604535a4fe56bf0737ea235d604eaef7c915d72f28f7300cd4fcf36f3fc66e",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_payrol00",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_payrol00.PAYROL00"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/PAYROL0X.cbl",
+    "sha256": "6fbcbead0e0a21b2197b01889faa8a1d854d556d2f4774603fbf4ef9706d18bb",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_payrol0x",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_payrol0x.PAYROL0X"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ValidateCheckDigit.cbl",
+    "sha256": "6a6670a1734a936d7771686041098c35cad12bdba6108a8e3b27942a094ccd6d",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_validatecheckdigit",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_validatecheckdigit.ValidateCheckDigit"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "subprogram",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/sort2tst.cbl",
+    "sha256": "6e2856b4d0baded601cf09a7b50e031aa9db309f916a1df0486378910807b8b1",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_sort2tst",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_sort2tst.SORT2TST"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/traint.cbl",
+    "sha256": "a9f5c9671033dd3470df62ffcfa7c340df554056c3deaa4ea208b0fa9adfefd7",
+    "package": "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_traint",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_dastagg.p_cbl.p_traint.DUMMYPGM"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0701.cbl",
+    "sha256": "f1397aba03e07311492d85f01b8f0a9a611dafa4352c79d347521021ef4d04d4",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0701",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0701.Listing7__1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0702.cbl",
+    "sha256": "16ae094553df4f77e37ef57e84b8aeb405b05e357b26072ebc434a6843950c4d",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0702",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0702.BDS0702"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0704.cbl",
+    "sha256": "459f6303045d7f2e30e6946da34e867d1704ef3a5d476982b89ea68aa78843d3",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0704",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0704.BDS0704"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0801.cbl",
+    "sha256": "78a4bfe3da6cbcba7a9dde2864384ccc0b45e2fbe1a99e54881077cac4311b80",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0801",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0801.BDS0801"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0802.cbl",
+    "sha256": "71272483a15267b2cd68e50a36814214ec73ffa63978825b9380480db60cccb6",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0802",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0802.BDS0802"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0803.cbl",
+    "sha256": "891e2afd4d458e71038bdd766d862af7afedb13f24eb3bd1062dbfcd9d283ea3",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0803",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0803.FAVRPT"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0804.cbl",
+    "sha256": "943213565246e144138e9fbd5b0faa1793960fb9cb44c63ca2e8fbbec98fb6aa",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0804",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_bds0804.BDS0804"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/TDSPTA2.cbl",
+    "sha256": "30c16a27977e8974a4e7b805a9e183cabcb545902f8d734bdad5d6e416542f83",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_tdspta2",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_tdspta2.TDSPTA2"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/TDSPTAB.cbl",
+    "sha256": "f343c31258727c9c3d1119a7a60b15694d130bcde5218d937da317284c266cbd",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_tdsptab",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_tdsptab.TDSPTAB"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/hello.cbl",
+    "sha256": "98773c84005cd1c293891a55bba52d3845241bc0e2a3d2f244311a31f8115e30",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_hello",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_hello.SmallestProgram"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "OpenCobol/prod/cbl/prtrpt1.cbl",
+    "sha256": "ad3aad656bef9d39cf89a094b7fd0ad69235af847e5b0860442107b20f04e49a",
+    "package": "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_prtrpt1",
+    "classes": [
+      "org.biggraph.generated.p_opencobol.p_prod.p_cbl.p_prtrpt1.PRTRPT1"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "pgm_templates/Batch/slt_base_ibm_batch.cob",
+    "sha256": "568e0cb4acf045456d146c65ef152b5af8e2149d922436b544a1bc03205a7731",
+    "package": "org.biggraph.generated.p_pgm_templates.p_batch.p_slt_base_ibm_batch",
+    "classes": [
+      "org.biggraph.generated.p_pgm_templates.p_batch.p_slt_base_ibm_batch.PGM__NAME"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": [
+      "Make template END PROGRAM match PROGRAM-ID"
+    ]
+  },
+  {
+    "source": "pgm_templates/Batch/slt_base_mf.cob",
+    "sha256": "26be7b22fa010b99065ccc86077e4d0ae2e6d6faa4bc650e7dc122327f7e6895",
+    "package": "org.biggraph.generated.p_pgm_templates.p_batch.p_slt_base_mf",
+    "classes": [
+      "org.biggraph.generated.p_pgm_templates.p_batch.p_slt_base_mf.base_mf"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "pgm_templates/Batch/slt_base_mf_min.cob",
+    "sha256": "f7b22d1973a35a83f669a6af0b767a5f2537397d621952fb8a6ce5e036dd2065",
+    "package": "org.biggraph.generated.p_pgm_templates.p_batch.p_slt_base_mf_min",
+    "classes": [
+      "org.biggraph.generated.p_pgm_templates.p_batch.p_slt_base_mf_min.base_mf_min"
+    ],
+    "status": "generated",
+    "diagnostics": "",
+    "program_type": "program",
+    "adaptations": []
+  },
+  {
+    "source": "pgm_templates/CICS/basecics.cbl",
+    "sha256": "0879c9cf6e61c1534581fa92b3f5491cf54696644b4145ce5c5b1768e131db33",
+    "package": "org.biggraph.generated.p_pgm_templates.p_cics.p_basecics",
+    "classes": [
+      "org.biggraph.cobol.cics.BaseCics"
+    ],
+    "status": "ported_template",
+    "diagnostics": "pgm_templates/CICS/basecics.cbl: In paragraph '0000-MAINLINE':\npgm_templates/CICS/basecics.cbl:70: Error: 'FIRST-TIME' undefined\npgm_templates/CICS/basecics.cbl:72: Error: 'PF3-KEY' undefined\npgm_templates/CICS/basecics.cbl:74: Error: 'ENTER-KEY' undefined\npgm_templates/CICS/basecics.cbl: In paragraph '1000-RECIEVE-MAP':\npgm_templates/CICS/basecics.cbl:97: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:97: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:98: Error: Unknown statement 'RECIEVE'\npgm_templates/CICS/basecics.cbl:98: Error: Unknown statement 'MAP'\npgm_templates/CICS/basecics.cbl:98: Error: Redefinition of 'WS-MAP-NAME'\npgm_templates/CICS/basecics.cbl:13: Error: 'WS-MAP-NAME' previously defined here\npgm_templates/CICS/basecics.cbl:99: Error: Unknown statement 'MAPSET'\npgm_templates/CICS/basecics.cbl:99: Error: Redefinition of 'WS-MAPSET-NAME'\npgm_templates/CICS/basecics.cbl:12: Error: 'WS-MAPSET-NAME' previously defined here\npgm_templates/CICS/basecics.cbl:100: Error: Unknown statement 'MAN-MAP'\npgm_templates/CICS/basecics.cbl:101: Error: Unknown statement 'RESP'\npgm_templates/CICS/basecics.cbl:101: Error: Redefinition of 'WS-RESPONSE-CODE'\npgm_templates/CICS/basecics.cbl:16: Error: 'WS-RESPONSE-CODE' previously defined here\npgm_templates/CICS/basecics.cbl: In paragraph 'END-EXEC':\npgm_templates/CICS/basecics.cbl:105: Error: 'NORMAL' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:105: Error: 'NORMAL' undefined\npgm_templates/CICS/basecics.cbl:105: Error: 'DFHRESP' undefined\npgm_templates/CICS/basecics.cbl:107: Error: 'MAPFAIL' undefined\npgm_templates/CICS/basecics.cbl:107: Error: 'DFHRESP' undefined\npgm_templates/CICS/basecics.cbl:110: Error: syntax error\npgm_templates/CICS/basecics.cbl:111: Error: 'MSM-D-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:115: Error: syntax error\npgm_templates/CICS/basecics.cbl: In paragraph '1200-SEND-MAP-DATAONLY':\npgm_templates/CICS/basecics.cbl:121: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:122: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:121: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:122: Error: Unknown statement 'SEND'\npgm_templates/CICS/basecics.cbl:122: Error: Unknown statement 'MAP'\npgm_templates/CICS/basecics.cbl:122: Error: Redefinition of 'WS-MAP-NAME'\npgm_templates/CICS/basecics.cbl:13: Error: 'WS-MAP-NAME' previously defined here\npgm_templates/CICS/basecics.cbl:123: Error: Unknown statement 'MAPSET'\npgm_templates/CICS/basecics.cbl:123: Error: Redefinition of 'WS-MAPSET-NAME'\npgm_templates/CICS/basecics.cbl:12: Error: 'WS-MAPSET-NAME' previously defined here\npgm_templates/CICS/basecics.cbl:124: Error: Unknown statement 'SYMBOLIC-MAP'\npgm_templates/CICS/basecics.cbl:125: Error: Unknown statement 'DATAONLY'\npgm_templates/CICS/basecics.cbl: In paragraph '3333-ALWAYS-TEST':\npgm_templates/CICS/basecics.cbl:131: Error: 'EIBAID' undefined\npgm_templates/CICS/basecics.cbl:131: Error: 'EIBAID-TEST-FIELD' undefined\npgm_templates/CICS/basecics.cbl:132: Error: 'CLEAR-KEY' undefined\npgm_templates/CICS/basecics.cbl:135: Error: 'EIBCALEN' undefined\npgm_templates/CICS/basecics.cbl: In paragraph '5000-VALIDATE-FIELD':\npgm_templates/CICS/basecics.cbl:141: Error: 'AV-UNPROT-NORM-MDT' undefined\npgm_templates/CICS/basecics.cbl:141: Error: 'WCM-A-FIRST-NAME' undefined\npgm_templates/CICS/basecics.cbl:142: Error: 'WCM-A-LAST-NAME' undefined\npgm_templates/CICS/basecics.cbl:143: Error: 'AV-UNPROT-NUM-MDT' undefined\npgm_templates/CICS/basecics.cbl:143: Error: 'WCM-A-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:144: Error: 'WCM-A-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:146: Error: 'WCM-L-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:147: Error: 'AV-UNPROT-NUM-BRT' undefined\npgm_templates/CICS/basecics.cbl:147: Error: 'WCM-A-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:149: Error: 'WCM-L-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:151: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:153: Error: 'WCM-L-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:154: Error: 'AV-UNPROT-NUM-BRT' undefined\npgm_templates/CICS/basecics.cbl:154: Error: 'WCM-A-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:156: Error: 'WCM-L-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:158: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:160: Error: 'WCM-L-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:161: Error: 'AV-UNPROT-NUM-BRT' undefined\npgm_templates/CICS/basecics.cbl:161: Error: 'WCM-A-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:163: Error: 'WCM-L-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:165: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:170: Error: 'WCM-L-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:171: Error: 'AV-UNPROT-NUM-BRT' undefined\npgm_templates/CICS/basecics.cbl:171: Error: 'WCM-A-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:173: Error: 'WCM-L-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:175: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:177: Error: 'WCM-L-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:178: Error: 'AV-UNPROT-NUM-BRT' undefined\npgm_templates/CICS/basecics.cbl:178: Error: 'WCM-A-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:180: Error: 'WCM-L-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:182: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:184: Error: 'WCM-L-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:185: Error: 'AV-UNPROT-NUM-BRT' undefined\npgm_templates/CICS/basecics.cbl:185: Error: 'WCM-A-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:187: Error: 'WCM-L-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:189: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:194: Error: 'WCM-D-LAST-NAME' undefined\npgm_templates/CICS/basecics.cbl:195: Error: 'AV-UNPROT-BRT' undefined\npgm_templates/CICS/basecics.cbl:195: Error: 'WCM-A-LAST-NAME' undefined\npgm_templates/CICS/basecics.cbl:197: Error: 'WCM-L-LAST-NAME' undefined\npgm_templates/CICS/basecics.cbl:199: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl:202: Error: 'WCM-D-FIRST-NAME' undefined\npgm_templates/CICS/basecics.cbl:203: Error: 'AV-UNPROT-BRT' undefined\npgm_templates/CICS/basecics.cbl:203: Error: 'WCM-A-FIRST-NAME' undefined\npgm_templates/CICS/basecics.cbl:205: Error: 'WCM-L-FIRST-NAME' undefined\npgm_templates/CICS/basecics.cbl:207: Error: 'WCM-D-ERROR-MESSAGE' undefined\npgm_templates/CICS/basecics.cbl: In paragraph '5500-COMPUTE-RESULTS':\npgm_templates/CICS/basecics.cbl:212: Error: 'WCM-D-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:213: Error: 'WCM-D-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:214: Error: Invalid expression\npgm_templates/CICS/basecics.cbl:214: Error: 'WCM-S-BASE-PAY' undefined\npgm_templates/CICS/basecics.cbl:215: Error: 'WCM-D-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:215: Error: 'WCM-D-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:217: Error: 'WCM-D-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:218: Error: 'WCM-S-BASE-PAY' undefined\npgm_templates/CICS/basecics.cbl:219: Error: 'WCM-D-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:220: Error: 'WCM-S-OVERTIME' undefined\npgm_templates/CICS/basecics.cbl:221: Error: 'WCM-D-HOURS-WORKED' undefined\npgm_templates/CICS/basecics.cbl:222: Error: 'WCM-D-HOURLY-WAGE' undefined\npgm_templates/CICS/basecics.cbl:223: Error: '(Internal error node)' is not a numeric value\npgm_templates/CICS/basecics.cbl:223: Error: '(Internal error node)' is not a numeric value\npgm_templates/CICS/basecics.cbl:226: Error: 'WCM-S-BASE-PAY' undefined\npgm_templates/CICS/basecics.cbl:226: Error: 'WCM-D-BASE-PAY' undefined\npgm_templates/CICS/basecics.cbl:227: Error: 'WCM-S-OVERTIME' undefined\npgm_templates/CICS/basecics.cbl:227: Error: 'WCM-D-OVERTIME' undefined\npgm_templates/CICS/basecics.cbl:229: Error: 'WCM-D-GROSS-PAY' undefined\npgm_templates/CICS/basecics.cbl:230: Error: 'WCM-S-BASE-PAY' undefined\npgm_templates/CICS/basecics.cbl:230: Error: 'WCM-S-OVERTIME' undefined\npgm_templates/CICS/basecics.cbl:233: Error: syntax error\npgm_templates/CICS/basecics.cbl:233: Error: 'WCM-D-GROSS-PAY' undefined\npgm_templates/CICS/basecics.cbl:235: Error: syntax error\npgm_templates/CICS/basecics.cbl: In paragraph '8000-RETURN-WITH-TRANS-ID':\npgm_templates/CICS/basecics.cbl:239: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:239: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:240: Error: 'TRANSID' undefined\npgm_templates/CICS/basecics.cbl:240: Error: 'TRANSID' is not a file name\npgm_templates/CICS/basecics.cbl:240: Error: Redefinition of 'WS-TRANS-ID'\npgm_templates/CICS/basecics.cbl:11: Error: 'WS-TRANS-ID' previously defined here\npgm_templates/CICS/basecics.cbl:241: Error: Unknown statement 'COMMAREA'\npgm_templates/CICS/basecics.cbl:241: Error: Redefinition of 'WS-COMMUNICATION-AREA'\npgm_templates/CICS/basecics.cbl:17: Error: 'WS-COMMUNICATION-AREA' previously defined here\npgm_templates/CICS/basecics.cbl: In paragraph '8900-QUIT':\npgm_templates/CICS/basecics.cbl:246: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:247: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:246: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:247: Error: 'TEXT' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:247: Error: Unknown statement 'SEND'\npgm_templates/CICS/basecics.cbl:247: Error: Unknown statement 'TEXT'\npgm_templates/CICS/basecics.cbl:247: Error: Redefinition of 'WS-END-MESSAGE'\npgm_templates/CICS/basecics.cbl:18: Error: 'WS-END-MESSAGE' previously defined here\npgm_templates/CICS/basecics.cbl:249: Error: Unknown statement 'FREEKB'\npgm_templates/CICS/basecics.cbl: In paragraph 'END-EXEC':\npgm_templates/CICS/basecics.cbl:251: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:251: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:253: Error: 'END-EXEC' ambiguous; need qualification\npgm_templates/CICS/basecics.cbl:102: Error: 'END-EXEC' in 'MAIN SECTION' defined here\npgm_templates/CICS/basecics.cbl:127: Error: 'END-EXEC' in 'MAIN SECTION' defined here\npgm_templates/CICS/basecics.cbl:242: Error: 'END-EXEC' in 'MAIN SECTION' defined here\npgm_templates/CICS/basecics.cbl:250: Error: 'END-EXEC' in 'MAIN SECTION' defined here\npgm_templates/CICS/basecics.cbl:253: Error: 'END-EXEC' is not a file name\npgm_templates/CICS/basecics.cbl: In paragraph '9000-FIRST-TIME':\npgm_templates/CICS/basecics.cbl:260: Error: syntax error\npgm_templates/CICS/basecics.cbl:262: Error: syntax error\npgm_templates/CICS/basecics.cbl:264: Error: 'EXEC' undefined\npgm_templates/CICS/basecics.cbl:265: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:264: Error: 'CICS' undefined\npgm_templates/CICS/basecics.cbl:265: Error: 'SEND' undefined\npgm_templates/CICS/basecics.cbl:265: Error: 'MAP' undefined\npgm_templates/CICS/basecics.cbl:266: Error: 'MAPSET' undefined\npgm_templates/CICS/basecics.cbl:267: Error: syntax error\npgm_templates/CICS/basecics.cbl:267: Error: Unknown statement 'SYMBOLIC-MAP-NAME'\npgm_templates/CICS/basecics.cbl: In paragraph '9100-CLEAN-THE-SCREEN':\npgm_templates/CICS/basecics.cbl:277: Error: syntax error\npgm_templates/CICS/basecics.cbl:279: Error: syntax error\npgm_templates/CICS/basecics.cbl:286: Error: 'EXEC' undefined\npgm_templates/CICS/basecics.cbl:287: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:286: Error: 'CICS' undefined\npgm_templates/CICS/basecics.cbl:287: Error: 'SEND' undefined\npgm_templates/CICS/basecics.cbl:287: Error: 'MAP' undefined\npgm_templates/CICS/basecics.cbl:288: Error: 'MAPSET' undefined\npgm_templates/CICS/basecics.cbl:289: Error: syntax error\npgm_templates/CICS/basecics.cbl:289: Error: Unknown statement 'SYMBOLIC-MAP-NAME'\npgm_templates/CICS/basecics.cbl:290: Error: Unknown statement 'DATAONLY'\npgm_templates/CICS/basecics.cbl:291: Error: Unknown statement 'ERASEAUP'\npgm_templates/CICS/basecics.cbl: In paragraph '9200-INVALID-KEY-MESSAGE':\npgm_templates/CICS/basecics.cbl:300: Error: syntax error\npgm_templates/CICS/basecics.cbl:302: Error: syntax error\npgm_templates/CICS/basecics.cbl:309: Error: 'EXEC' undefined\npgm_templates/CICS/basecics.cbl:310: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:309: Error: 'CICS' undefined\npgm_templates/CICS/basecics.cbl:310: Error: 'SEND' undefined\npgm_templates/CICS/basecics.cbl:310: Error: 'MAP' undefined\npgm_templates/CICS/basecics.cbl:311: Error: 'MAPSET' undefined\npgm_templates/CICS/basecics.cbl:312: Error: syntax error\npgm_templates/CICS/basecics.cbl:312: Error: Unknown statement 'SYMBOLIC-MAP-NAME'\npgm_templates/CICS/basecics.cbl:313: Error: Unknown statement 'DATAONLY'\npgm_templates/CICS/basecics.cbl:314: Error: Unknown statement 'ERASEAUP'\npgm_templates/CICS/basecics.cbl: In paragraph '9999-ABORT':\npgm_templates/CICS/basecics.cbl:320: Error: 'EIBTRNID' undefined\npgm_templates/CICS/basecics.cbl:321: Error: 'EIBRSRCE' undefined\npgm_templates/CICS/basecics.cbl:322: Error: 'EIBRESP' undefined\npgm_templates/CICS/basecics.cbl:323: Error: 'EIBRESP2' undefined\npgm_templates/CICS/basecics.cbl:325: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:326: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:325: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:326: Error: 'TEXT' reserved word, but not supported yet\npgm_templates/CICS/basecics.cbl:326: Error: Unknown statement 'SEND'\npgm_templates/CICS/basecics.cbl:326: Error: Unknown statement 'TEXT'\npgm_templates/CICS/basecics.cbl:326: Error: Redefinition of 'WS-ERROR-MESSAGES'\npgm_templates/CICS/basecics.cbl:28: Error: 'WS-ERROR-MESSAGES' previously defined here\npgm_templates/CICS/basecics.cbl:328: Error: Unknown statement 'ALARM'\npgm_templates/CICS/basecics.cbl:329: Error: Unknown statement 'FREEKB'\npgm_templates/CICS/basecics.cbl: In paragraph 'END-EXEC':\npgm_templates/CICS/basecics.cbl:332: Error: Unknown statement 'EXEC'\npgm_templates/CICS/basecics.cbl:332: Error: Unknown statement 'CICS'\npgm_templates/CICS/basecics.cbl:334: Error: 'END-EXEC' is not a file name\npgm_templates/CICS/basecics.cbl:73: Error: '9100-CLEAR-THE-SCREEN' undefined\npgm_templates/CICS/basecics.cbl:75: Error: '0500-NORMAL-PROCEDURE' undefined\npgm_templates/CICS/basecics.cbl:87: Error: '5000-VALIDATE-FIELDS' undefined",
+    "program_type": "program",
+    "adaptations": [],
+    "integration": "Requires the actual z/OS Connect OpenAPI contract, server and CICS map bindings"
+  },
+  {
+    "source": "pgm_templates/CICS/calctest.cbl",
+    "sha256": "6c02f2f1b01426fc2073264d8da829f592e3738b347e055b77eaddf950630c3d",
+    "package": "org.biggraph.generated.p_pgm_templates.p_cics.p_calctest",
+    "classes": [
+      "org.biggraph.cobol.cics.CalcTest"
+    ],
+    "status": "ported_template",
+    "diagnostics": "pgm_templates/CICS/calctest.cbl:26: Error: WAGEMAP: No such file or directory\npgm_templates/CICS/calctest.cbl:28: Error: DFHAID: No such file or directory\npgm_templates/CICS/calctest.cbl:30: Error: AVDEFN: No such file or directory\npgm_templates/CICS/calctest.cbl:32: Error: CICSERC: No such file or directory",
+    "program_type": "program",
+    "adaptations": [],
+    "integration": "Requires the actual z/OS Connect OpenAPI contract, server and CICS map bindings"
+  },
+  {
+    "source": "pgm_templates/CICS/slt_base_ibm_cics.cob",
+    "sha256": "a1bd7da86835c44724de5fbb7fce53620737f71e207065049db04884da2c4af1",
+    "package": "org.biggraph.generated.p_pgm_templates.p_cics.p_slt_base_ibm_cics",
+    "classes": [
+      "org.biggraph.cobol.cics.GreetingTransaction"
+    ],
+    "status": "ported_template",
+    "diagnostics": "pgm_templates/CICS/slt_base_ibm_cics.cob: In paragraph 'PARA1':\npgm_templates/CICS/slt_base_ibm_cics.cob:11: Error: Unknown statement 'EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:12: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/slt_base_ibm_cics.cob:11: Error: Unknown statement 'CICS'\npgm_templates/CICS/slt_base_ibm_cics.cob:12: Error: Unknown statement 'SEND'\npgm_templates/CICS/slt_base_ibm_cics.cob:12: Error: Redefinition of 'INP-MSG'\npgm_templates/CICS/slt_base_ibm_cics.cob:8: Error: 'INP-MSG' previously defined here\npgm_templates/CICS/slt_base_ibm_cics.cob:14: Error: Unknown statement 'END-EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:16: Error: Unknown statement 'EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:17: Error: 'RECEIVE' reserved word, but not supported yet\npgm_templates/CICS/slt_base_ibm_cics.cob:16: Error: Unknown statement 'CICS'\npgm_templates/CICS/slt_base_ibm_cics.cob:17: Error: Unknown statement 'RECEIVE'\npgm_templates/CICS/slt_base_ibm_cics.cob:17: Error: Redefinition of 'MSG'\npgm_templates/CICS/slt_base_ibm_cics.cob:7: Error: 'MSG' previously defined here\npgm_templates/CICS/slt_base_ibm_cics.cob:18: Error: Unknown statement 'END-EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:21: Error: Unknown statement 'EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:22: Error: 'SEND' reserved word, but not supported yet\npgm_templates/CICS/slt_base_ibm_cics.cob:21: Error: Unknown statement 'CICS'\npgm_templates/CICS/slt_base_ibm_cics.cob:22: Error: Unknown statement 'SEND'\npgm_templates/CICS/slt_base_ibm_cics.cob:22: Error: Redefinition of 'OUT-MSG'\npgm_templates/CICS/slt_base_ibm_cics.cob:5: Error: 'OUT-MSG' previously defined here\npgm_templates/CICS/slt_base_ibm_cics.cob:24: Error: Unknown statement 'END-EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:26: Error: Unknown statement 'EXEC'\npgm_templates/CICS/slt_base_ibm_cics.cob:26: Error: Unknown statement 'CICS'\npgm_templates/CICS/slt_base_ibm_cics.cob:28: Error: 'END-EXEC' undefined\npgm_templates/CICS/slt_base_ibm_cics.cob:28: Error: 'END-EXEC' is not a file name",
+    "program_type": "program",
+    "adaptations": [],
+    "integration": "Requires the actual z/OS Connect OpenAPI contract, server and CICS map bindings"
+  }
+]

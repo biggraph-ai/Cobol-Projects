@@ -1,0 +1,922 @@
+[
+  {
+    "source": "Extra-Stuff/Blue/test.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Extra-Stuff/MVT-Convert/test.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Extra-Stuff/UnNumRight/test.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0702.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0704.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0801.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/BDS0802.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/cbl0001.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/MVS/herc03/cbl/hello.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/MAINPGM.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB01.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB02.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB03.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB04.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/SUB05.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE1.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE2.cbl",
+    "status": "passed",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Expand WS-STN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-DTN-L2-B ALL subscripts to explicit occurrence arguments",
+      "Expand WS-DTHN-L2-B ALL subscripts to explicit occurrence arguments",
+      "Expand WS-3D-L3-C ALL subscripts to explicit occurrence arguments"
+    ],
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE2A.cbl",
+    "status": "passed",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Expand WS-3D-L3-C ALL subscripts to explicit occurrence arguments"
+    ],
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLE3.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLENA.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/TABLEWA.cbl",
+    "status": "passed",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Expand WS-1DN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-3DI-L3-C ALL subscripts to explicit occurrence arguments"
+    ],
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS120.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS162E.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS172A.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS182.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS193.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS532.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS63.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS63A.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS64.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS72O.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS81C.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS81D.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/ECBAP/cbl/WS81E.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort1f.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort1t.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort2f.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort3f.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Internal-Sort/cbl/sort4f.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0702.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0704.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0801.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0802.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS0803.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1001.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1002.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1003.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/BDS1004.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/CBL0106.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/EXE4.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/FAVRPT.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/ODS0001.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/ODS000C.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Normal/cbl/ODS0106.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "Mainframe/ZOS/Zowe/Simple_Report/COBOL/prtrpt1.cbl",
+    "status": "unrun",
+    "reason": "Mainframe dataset bindings required"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/CHARFUNC.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FAHR2CEL.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FAVRPT.cbl",
+    "status": "unrun",
+    "reason": "Missing repository input fixtures: ../../../common/data/favin.txt"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FAVRPT2.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "original COBOL",
+    "fixture_preparation": "58-byte fixed records from the repository favin fixture; explicit DD bindings",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/FILECALC.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/HOSPEDIT.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INSPECT1.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTEG1.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRDATE.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRFINA.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRNUM.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/INTRSTAT.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/MAINPGM.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/PAYROL01.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/PAYROL0B.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/STRING1.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/STRING2.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB01.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB02.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB03.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB04.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/SUB05.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLE1.cbl",
+    "status": "passed",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Use singular VALUE for elementary initial values",
+      "Expand WS-STN-A ALL subscripts to explicit occurrence arguments"
+    ],
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLES00.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "original COBOL",
+    "fixture_preparation": "80-byte fixed employee records with explicit DD bindings",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLES01.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "original COBOL",
+    "fixture_preparation": "Prepared valid fixture: insert two missing numeric positions in original employee-project line 13; original data remains unchanged",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLES02.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "original COBOL",
+    "fixture_preparation": "80-byte fixed student course records with explicit DD bindings",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLESA1.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "original COBOL",
+    "fixture_preparation": "80-byte fixed employee project records with explicit DD binding",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLOAD1.cbl",
+    "status": "unrun",
+    "reason": "Missing repository input fixtures: ../../../common/data/ECBAP/becsv.dat.txt"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TABLOAD2.cbl",
+    "status": "unrun",
+    "reason": "Missing repository input fixtures: ../../../common/data/ECBAP/becsv.dat.txt"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/TRIM1.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/UNSTRNG.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/tabldna.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/tablena.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/tablewa.cbl",
+    "status": "passed",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Expand WS-1DN-A ALL subscripts to explicit occurrence arguments",
+      "Expand WS-3DI-L3-C ALL subscripts to explicit occurrence arguments"
+    ],
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws120.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws162e.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws162o.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws172a.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws182.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws532.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws63.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws63a.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws64.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws72o.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws81c.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws81d.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/ECBAP/cbl/ws81e.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort1f.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort1t.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort2f.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort3f.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/Internal-Sort/cbl/sort4f.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ADDAMT.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1001.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1002.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1003.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1004.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/BDS1005.cbl",
+    "status": "unrun",
+    "reason": "Missing repository input fixtures: ../../../common/data/c10-5newmast.dat.txt"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0001.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ],
+    "fixture_preparation": "Synthetic 170-byte account record with valid signed packed-decimal balances",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0002.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ],
+    "fixture_preparation": "Synthetic 170-byte account record with valid signed packed-decimal balances",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0004.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0005.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0006.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0007.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0008.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0009.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0010.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0011.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/CBL0012.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/HOSPEDIT.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "original COBOL",
+    "fixture_preparation": "100-byte fixed hospital records with explicit input and output DD bindings",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0001.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0002.cbl",
+    "status": "passed_prepared_fixture",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Terminate PROGRAM-ID sentence"
+    ],
+    "fixture_preparation": "Synthetic 170-byte account record with valid signed packed-decimal balances",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0004.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ODS0005.cbl",
+    "status": "unrun",
+    "reason": "Time-dependent or random demonstration; compilation checked"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/PAYROL00.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/PAYROL0X.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/ValidateCheckDigit.cbl",
+    "status": "unrun",
+    "reason": "Subprogram; exercised through its caller where available"
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/sort2tst.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/dastagg/cbl/traint.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0701.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0702.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0704.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0801.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0802.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0803.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/TDSPTA2.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/TDSPTAB.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/hello.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/prtrpt1.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "pgm_templates/Batch/slt_base_ibm_batch.cob",
+    "status": "passed",
+    "reference": "adapted COBOL",
+    "adaptations": [
+      "Make template END PROGRAM match PROGRAM-ID"
+    ],
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "pgm_templates/Batch/slt_base_mf.cob",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "pgm_templates/Batch/slt_base_mf_min.cob",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  },
+  {
+    "source": "OpenCobol/prod/cbl/BDS0804.cbl",
+    "status": "passed",
+    "reference": "original COBOL",
+    "exit_native": 0,
+    "exit_java": 0
+  }
+]

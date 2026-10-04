@@ -1,0 +1,4 @@
+__pycache__/
+*.class
+*.jar
+build/
